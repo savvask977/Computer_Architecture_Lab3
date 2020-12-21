@@ -99,6 +99,16 @@ Xeon είναι πολύ μεγαλύτερες. Το γεγονός αυτό ε
 ![L2 associativity](./matlab_diagrams/l2assoc.jpg)<br>
 ![L2 size](./matlab_diagrams/l2size.jpg)<br>
 
+<br>
+Εν τέλει καταλήξαμε στο ότι το ιδανικό μοντέλο είναι το παρακάτω:  <br>  
+ *  L1 Icache size: 32kB
+ *  L1 Icache associativity: 2
+ *  L1 Dcache size: 32kB
+ *  L1 Dcache associativity:4
+ *  L2 cache size: 2MB
+ *  L2 cache associativity:8
+ *  Cache line size: 128kB
+
 Οι προσομειώσεις μικροαρχιτεκτονικών στο McPAT δεν δίνουν πάντα ακριβή/σωστά αποτελέσματα.
 
 * Διαφορετική Υλοποίηση και Μοντελοποίηση  
