@@ -94,8 +94,8 @@ Xeon είναι πολύ μεγαλύτερες. Το γεγονός αυτό ε
 ![Dcache size](./matlab_diagrams/D1size.jpg) <br> 
 ![cacheline](./matlab_diagrams/cacheline.jpg)<br>
 ![dcache associativity](./matlab_diagrams/d1assoc.jpg)<br>
-![L1 assosiativity](./matlab_diagrams/l1assoc.jpg)<br>
-![icache size](./matlab_diagrams/icachesize.jpg)<br>
+![L1 assosiativity](./matlab_diagrams/i1assoc.jpg)<br>
+![icache size](./matlab_diagrams/icacheSize.jpg)<br>
 ![L2 associativity](./matlab_diagrams/l2assoc.jpg)<br>
 ![L2 size](./matlab_diagrams/l2size.jpg)<br>
 
